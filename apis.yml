@@ -1,20 +1,70 @@
 aid: tulyp
 name: Tulyp
-description: Tulyp is a company surfaced as a portfolio company of speedinvest and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Tulyp is a SaaS treasury platform from French company SmarTrade SAS that
+  gives CFOs and treasurers of SMEs and mid-caps (10-200M euro revenue) real-time
+  visibility into their foreign-exchange (FX) exposure. The platform aggregates financial
+  data from connected ERPs, accounting software, and banks, calculates net currency
+  exposure by type and timeframe, translates currency movements into impact on revenue,
+  margins, and EBITDA, and alerts when exposure crosses risk-policy thresholds. Backed
+  by Speedinvest. Tulyp publishes no public developer API; it does publish an llms.txt
+  content index for AI systems.
 url: https://raw.githubusercontent.com/api-evangelist/tulyp/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://tulyp.io/og/og-tulyp-default.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - speedinvest
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- FinTech
+- Treasury
+- Foreign Exchange
+- Risk Management
+- SaaS
+- France
 apis: []
+common:
+- type: DomainSecurity
+  url: security/tulyp-domain-security.yml
+- type: Website
+  url: https://tulyp.io
+- type: Pricing
+  url: https://tulyp.io/pricing
+- type: About
+  url: https://tulyp.io/about
+- type: Contact
+  url: https://tulyp.io/contact
+- type: Login
+  url: https://app.tulyp.io/login
+- type: TermsOfService
+  url: https://tulyp.io/terms
+- type: PrivacyPolicy
+  url: https://tulyp.io/privacy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/tulyp-io
+- type: LLMsTxt
+  url: llms/tulyp-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com

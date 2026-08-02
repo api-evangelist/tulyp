@@ -1,0 +1,24 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Results of probing the /.well-known/ discovery surface on the Tulyp website
+  (https://tulyp.io — the company publishes no API host). Status is the HTTP
+  code observed at fetch time. Note tulyp.io is an SPA that soft-200s unknown
+  page routes, but /.well-known/ paths return real 404s; no discovery
+  documents were found and none were saved. The site does publish a real
+  /llms.txt (text/plain, captured verbatim in llms/tulyp-llms.txt).
+hosts:
+  - host: https://tulyp.io
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404

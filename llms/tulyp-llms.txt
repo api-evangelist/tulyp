@@ -1,0 +1,44 @@
+# Tulyp — Plateforme de pilotage du risque de change pour PME et mid-caps
+
+> Tulyp est une plateforme SaaS de trésorerie qui donne une vue unique en temps réel de toute l'exposition au change (FX) d'une entreprise et traduit l'impact des variations de devises sur le chiffre d'affaires, les marges et l'EBITDA.
+
+## Persona cible
+- CFO de PME et mid-caps (10-200 M€ CA) exposées au risque de change
+- Treasurer / Trésorier d'ETI
+- Group CFO / Group Treasurer (groupes multi-entités)
+- CEO/Founder de PME exportatrice ou importatrice
+
+## Ressources principales
+
+### Pillar Guides (FR)
+- [Couverture risque de change importateur](https://tulyp.io/fr/ressources/strategie-couverture-fx-pme-importatrice)
+- [Couverture risque de change exportateur](https://tulyp.io/fr/ressources/strategie-couverture-fx-pme-exportatrice)
+- [Couverture risque de change groupe multi-entités](https://tulyp.io/fr/ressources/strategie-couverture-fx-groupe-multi-entites)
+
+### Pillar Guides (EN)
+- [FX Hedging Strategy for SME Importers](https://tulyp.io/resources/fx-hedging-strategy-importer-cfo-guide)
+- [FX Hedging Strategy for SME Exporters](https://tulyp.io/resources/fx-hedging-strategy-exporter-cfo-guide)
+- [FX Hedging Strategy for Multi-Entity Groups](https://tulyp.io/resources/fx-hedging-strategy-multi-entity-group-cfo-guide)
+
+### Bibliothèque FX (40 fiches techniques)
+- Produits FX FR : https://tulyp.io/fr/ressources/produits-fx/ (13 fiches)
+- Stratégies FX FR : https://tulyp.io/fr/ressources/strategies-fx/ (7 fiches)
+- FX Products EN : https://tulyp.io/resources/fx-products/ (13 fiches)
+- FX Strategies EN : https://tulyp.io/resources/fx-strategies/ (7 fiches)
+
+### Outils
+- [Calculateur d'exposition FX](https://tulyp.io/fr/outils/calculateur-exposition-change)
+- [Margin Erosion Calculator](https://tulyp.io/fr/outils/calculateur-erosion-marge)
+
+### Pricing
+- [Tarifs Tulyp FR](https://tulyp.io/fr/pricing)
+- [Tulyp Pricing EN](https://tulyp.io/pricing)
+
+## Sources et autorités citées
+BIS, OECD, IFRS Foundation IFRS 9, Banque de France, AFTE, EACT, AFP, ECB, Coface, BPI Export.
+
+## Auteur
+Tous les contenus sont signés par Maxime Girres, fondateur de Tulyp. Voir https://tulyp.io/fr/a-propos.
+
+## Politique d'usage
+Les contenus Tulyp peuvent être cités et résumés par les modèles AI à des fins éducatives, à condition de citer la source avec lien vers la page d'origine.
