@@ -9,6 +9,17 @@ description: Tulyp is a SaaS treasury platform from French company SmarTrade SAS
   by Speedinvest. Tulyp publishes no public developer API; it does publish an llms.txt
   content index for AI systems.
 url: https://raw.githubusercontent.com/api-evangelist/tulyp/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
